@@ -3,6 +3,7 @@ FOR KRISTAL https://github.com/KristalTeam/Kristal#
 By abbe_abbington
 
 To make it laugh:
+
 for NPC
 ```
 .sprite:laugh()
@@ -14,6 +15,7 @@ for EnemyBattler
 
 To make it sad:
 ```tweenspeed``` how fast his smile moves in seconds (0.5 seconds by default)
+
 for NPC
 ```
 .sprite:toggleSad(tweenspeed)
