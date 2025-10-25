@@ -15,7 +15,7 @@ for EnemyBattler
 
 To make it sad:
 
-```tweenspeed``` how fast his smile moves in seconds (0.5 seconds by default)
+```tweenspeed``` how fast the mouth moves in seconds (0.5 seconds by default)
 
 for NPC
 ```
